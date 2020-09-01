@@ -1,4 +1,4 @@
-# spigotmc.org
+# spigot-minecraft
 The bot that pulls the download numbers and prices of all plugins on the site
 
 Instructions ;
