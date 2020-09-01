@@ -1,0 +1,15 @@
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\bin\Debug\netcoreapp3.1\spigotmc.org.exe
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\bin\Debug\netcoreapp3.1\spigotmc.org.deps.json
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\bin\Debug\netcoreapp3.1\spigotmc.org.runtimeconfig.json
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\bin\Debug\netcoreapp3.1\spigotmc.org.runtimeconfig.dev.json
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\bin\Debug\netcoreapp3.1\spigotmc.org.dll
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\bin\Debug\netcoreapp3.1\spigotmc.org.pdb
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\obj\Debug\netcoreapp3.1\spigotmc.org.csprojAssemblyReference.cache
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\obj\Debug\netcoreapp3.1\spigotmc.org.AssemblyInfoInputs.cache
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\obj\Debug\netcoreapp3.1\spigotmc.org.AssemblyInfo.cs
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\obj\Debug\netcoreapp3.1\spigotmc.org.dll
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\obj\Debug\netcoreapp3.1\spigotmc.org.pdb
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\obj\Debug\netcoreapp3.1\spigotmc.org.genruntimeconfig.cache
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\obj\Debug\netcoreapp3.1\spigotmc.org.csproj.CoreCompileInputs.cache
+C:\Users\furkan\source\repos\spigotmc.org\spigotmc.org\obj\Debug\netcoreapp3.1\spigotmc.org.csproj.CopyComplete

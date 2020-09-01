@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8QPp7iX98QYp8pvzggI5snhmP7zRcRqqA1nLXtuMrswOL1g7d5hFpJJUnDah1fZFdFk/OA2aInbnggsaZAuFUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furkan\\source\\repos\\spigotmc.org\\spigotmc.org\\spigotmc.org.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furkan\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}
